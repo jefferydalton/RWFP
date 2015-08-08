@@ -1,1 +1,1 @@
-# RWFP
+# Real World Functional Programming Book
